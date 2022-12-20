@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\bin\Debug\SudokuChepraga.exe.config
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\bin\Debug\SudokuChepraga.exe
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\bin\Debug\SudokuChepraga.pdb
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.Form1.resources
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.Properties.Resources.resources
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.csproj.GenerateResource.cache
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.exe
+C:\Users\student\source\repos\SudokuChepraga\SudokuChepraga\obj\Debug\SudokuChepraga.pdb
